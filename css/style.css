@@ -1,0 +1,74 @@
+/* &display=swap */
+
+@import "null.css";
+
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap);
+
+
+body {
+	color: #424551;
+	font-size: 16px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 25.6px;
+	text-align: justify;
+}
+
+.color-shr,
+.text,
+.loremi{
+	color: #1E212C;
+}
+
+.text,
+.loremi{
+	font-size: 20px;
+	font-family: "Lato";
+	font-style: normal;
+	font-weight: 700;	
+	line-height: 30px;
+}
+
+h1 {
+	
+	font-size: 46px;
+	font-family: "Lato";
+	font-style: normal;
+	font-weight: 900;
+	line-height: 60px;
+	text-align: left;
+}
+
+.page {
+	width: 740px;
+	height: 360px;
+}
+
+li{
+	text-indent: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
